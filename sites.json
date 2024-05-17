@@ -1,0 +1,87 @@
+[
+  {
+    "title": "ChatGPT",
+    "link": "https://chatgpt.com",
+    "description": "Advanced conversational AI by OpenAI."
+  },
+  {
+    "title": "Google Gemini",
+    "link": "https://gemini.google.com/app",
+    "description": "Google's powerful AI language model."
+  },
+  {
+    "title": "Bing",
+    "link": "https://bing.com",
+    "description": "Microsoft's AI search engine."
+  },
+  {
+    "title": "Meta Llama",
+    "link": "https://www.meta.ai/",
+    "description": "Meta's AI research and applications."
+  },
+  {
+    "title": "DALL·E 2",
+    "link": "https://labs.openai.com",
+    "description": "AI for generating images from text."
+  },
+  {
+    "title": "MidJourney",
+    "link": "https://www.midjourney.com/",
+    "description": "AI-powered image creation tool."
+  },
+  {
+    "title": "Claude",
+    "link": "https://claude.ai",
+    "description": "AI chatbot developed by Anthropic."
+  },
+  {
+    "title": "QuillBot",
+    "link": "https://quillbot.com",
+    "description": "AI paraphrasing and summarizing tool."
+  },
+  {
+    "title": "YouChat",
+    "link": "https://you.com/",
+    "description": "AI chat integrated with You.com search."
+  },
+  {
+    "title": "Deepl Translator",
+    "link": "https://www.deepl.com/en/translator",
+    "description": "AI-based language translation service."
+  },
+  {
+    "title": "JanitorAI",
+    "link": "https://janitorai.com/",
+    "description": "AI chatbot for managing virtual tasks."
+  },
+  {
+    "title": "Suno AI",
+    "link": "https://suno.com",
+    "description": "AI-driven audio and sound solutions."
+  },
+  {
+    "title": "CapCut",
+    "link": "https://www.capcut.com/",
+    "description": "AI-powered video editing tool."
+  },
+  {
+    "title": "Novel AI",
+    "link": "https://novelai.net",
+    "description": "AI for creative story writing."
+  },
+  {
+    "title": "IC-Light",
+    "link": "https://huggingface.co/spaces/lllyasviel/IC-Light",
+    "description": "Interactive chatbot on Hugging Face."
+  },
+  {
+    "title": "Mixtral",
+    "link": "https://chat.mistral.ai/chat",
+    "description": "Mistral's conversational AI platform."
+  },
+  {
+    "title": "CivitAI",
+    "link": "https://civitai.com",
+    "description": "Community-driven AI model sharing."
+  }
+]
